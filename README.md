@@ -14,8 +14,8 @@
 </div><br>
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gyuhyeok99&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gyuhyeok99&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuhyeok99&show_icons=true&theme=tokyonight)](https://github.com/Gyuhyeok99/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuhyeok99&show_icons=true&theme=tokyonight)](https://github.com/Gyuhyeok99/github-readme-stats)  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbgur5288)](https://solved.ac/rbgur5288)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbgur5288)](https://solved.ac/rbgur5288)
 
